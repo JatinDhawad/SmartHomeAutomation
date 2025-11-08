@@ -1,3 +1,7 @@
+![GitHub repo size](https://img.shields.io/github/repo-size/JatinDhawad/SmartHomeAutomation)
+![GitHub stars](https://img.shields.io/github/stars/JatinDhawad/SmartHomeAutomation?style=social)
+![GitHub last commit](https://img.shields.io/github/last-commit/JatinDhawad/SmartHomeAutomation)
+
 # 🏠 Smart Home Automation using Arduino & Blynk IoT
 
 A safety-oriented IoT system that detects **gas leaks, fire, motion, and obstacles**, 
